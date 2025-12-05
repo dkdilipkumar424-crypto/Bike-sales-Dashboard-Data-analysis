@@ -30,4 +30,5 @@ How to Use
 
 Download the Excel file, open it in Excel, and use the slicers on the left to explore the data.
 
-If you want, I can also make it even shorter, more casual, or more professional—just let me know!
+Dashboard https://github.com/dkdilipkumar424-crypto/Bike-sales-Dashboard-Data-analysis/blob/main/Screenshot%20(4).png
+
